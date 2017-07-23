@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset>
+    <url>
+        <loc>http://www.wycweb.com/</loc>
+        <lastmod>2017-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://www.wycweb.com/index.php/Home/index</loc>
+        <lastmod>2017-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://www.wycweb.com/index.php/Home/about</loc>
+        <lastmod>2017-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://http://www.wycweb.com/index.php/Home/life</loc>
+        <lastmod>2017-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://www.wycweb.com/index.php/Home/photo</loc>
+        <lastmod>2017-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+        <url>
+        <loc>http://www.wycweb.com/index.php/Home/board</loc>
+        <lastmod>2017-05-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>

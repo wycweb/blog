@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>后台管理</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/Back/css/common.css"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/Back/css/main.css"/>
+    <script type="text/javascript" src="__PUBLIC__/Back/js/libs/modernizr.min.js"></script>
+</head>
+<body>
+<include file="Public/head" />
+<div class="container clearfix">
+    <include file="Public/left" />
+    <!--/sidebar-->
+    <div class="main-wrap">
+
+        <div class="crumb-wrap">
+            <div class="crumb-list"><i class="icon-font"></i><a href="__ROOT__>首页</a><span class="crumb-step"><span class="crumb-step">&gt;</span><span>基本信息修改</span></div>
+        </div>
+        <div class="result-wrap">
+            <div class="result-content">
+                <form action="" method="post" id="myform" name="myform">
+                <input type="hidden" name="id" value="{$infor.id}">
+                    <table class="insert-tab" width="100%">
+                        <tbody>
+                            <tr>
+                                <th><i class="require-red">*</i>网站标题：</th>
+                                <td>
+                                    <input class="common-text required" id="title" name="title" size="50" value="{$infor.title}" type="text">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th><i class="require-red">*</i>网站描述：</th>
+                                <td>
+                                    <input class="common-text required" id="describe" name="describe" size="50" value="{$infor.describe}" type="text">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th><i class="require-red">*</i>右侧网名：</th>
+                                <td>
+                                    <input class="common-text required" id="" name="person_title" size="50" value="{$infor.person_title}" type="text">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th><i class="require-red">*</i>右侧描述：</th>
+                                <td>
+                                    <input class="common-text required" id="person_describe" name="person_describe" size="50" value="{$infor.person_describe}" type="text">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th><i class="require-red">*</i>网名：</th>
+                                <td>
+                                    <input class="common-text required" id="name" name="name" size="50" value="{$infor.name}" type="text">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th><i class="require-red">*</i>职业：</th>
+                                <td>
+                                    <input class="common-text required" id="job" name="job" size="50" value="{$infor.job}" type="text">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th><i class="require-red">*</i>籍贯：</th>
+                                <td>
+                                    <input class="common-text required" id="address" name="address" size="50" value="{$infor.address}" type="text">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th><i class="require-red">*</i>手机号：</th>
+                                <td>
+                                    <input class="common-text required" id="phone" name="phone" size="50" value="{$infor.phone}" type="text">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th><i class="require-red">*</i>QQ号码：</th>
+                                <td>
+                                    <input class="common-text required" id="qq" name="qq" size="50" value="{$infor.qq}" type="text">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th><i class="require-red">*</i>ICP备案号：</th>
+                                <td>
+                                    <input class="common-text required" id="icp" name="icp" size="50" value="{$infor.icp}" type="text">
+                                </td>
+                            </tr>
+                            <tr>
+                                <th></th>
+                                <td>
+                                    <input class="btn btn-primary btn6 mr10" value="提交" type="submit">
+                                    <input class="btn btn6" onclick="history.go(-1)" value="返回" type="button">
+                                </td>
+                            </tr>
+                        </tbody></table>
+                </form>
+            </div>
+        </div>
+
+    </div>
+    <!--/main-->
+</div>
+</body>
+</html>

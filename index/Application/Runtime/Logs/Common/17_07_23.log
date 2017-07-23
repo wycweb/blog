@@ -1,0 +1,626 @@
+[ 2017-07-23T13:05:44+08:00 ] 127.0.0.1 /index/article/article/17.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:Article
+
+[ 2017-07-23T13:15:32+08:00 ] 127.0.0.1 /index/category/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:15:50+08:00 ] 127.0.0.1 /index/category/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:15:51+08:00 ] 127.0.0.1 /index/category/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:15:51+08:00 ] 127.0.0.1 /index/category/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:15:56+08:00 ] 127.0.0.1 /index/category/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:16:04+08:00 ] 127.0.0.1 /index/category/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001286s ]
+NOTIC: [8] Undefined offset: -1 H:\PHP\htdocs\index\ThinkPHP\Library\Think\Route.class.php 第 216 行.
+ERR: 无法加载模块:Index
+
+[ 2017-07-23T13:16:04+08:00 ] 127.0.0.1 /index/category/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Undefined offset: -1 H:\PHP\htdocs\index\ThinkPHP\Library\Think\Route.class.php 第 216 行.
+ERR: 无法加载模块:Index
+
+[ 2017-07-23T13:16:05+08:00 ] 127.0.0.1 /index/category/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+NOTIC: [8] Undefined offset: -1 H:\PHP\htdocs\index\ThinkPHP\Library\Think\Route.class.php 第 216 行.
+ERR: 无法加载模块:Index
+
+[ 2017-07-23T13:16:36+08:00 ] 127.0.0.1 /index/category/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:16:37+08:00 ] 127.0.0.1 /index/category/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:16:39+08:00 ] 127.0.0.1 /index/category/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:16:59+08:00 ] 127.0.0.1 /index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:Index
+
+[ 2017-07-23T13:17:10+08:00 ] 127.0.0.1 /index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 无法加载模块:Index
+
+[ 2017-07-23T13:17:10+08:00 ] 127.0.0.1 /index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+ERR: 无法加载模块:Index
+
+[ 2017-07-23T13:17:28+08:00 ] 127.0.0.1 /index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+NOTIC: [8] Undefined offset: 0 H:\PHP\htdocs\index\ThinkPHP\Library\Think\Route.class.php 第 216 行.
+ERR: 无法加载模块:Index
+
+[ 2017-07-23T13:17:28+08:00 ] 127.0.0.1 /index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+NOTIC: [8] Undefined offset: 0 H:\PHP\htdocs\index\ThinkPHP\Library\Think\Route.class.php 第 216 行.
+ERR: 无法加载模块:Index
+
+[ 2017-07-23T13:17:28+08:00 ] 127.0.0.1 /index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+NOTIC: [8] Undefined offset: 0 H:\PHP\htdocs\index\ThinkPHP\Library\Think\Route.class.php 第 216 行.
+ERR: 无法加载模块:Index
+
+[ 2017-07-23T13:17:29+08:00 ] 127.0.0.1 /index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+NOTIC: [8] Undefined offset: 0 H:\PHP\htdocs\index\ThinkPHP\Library\Think\Route.class.php 第 216 行.
+ERR: 无法加载模块:Index
+
+[ 2017-07-23T13:17:37+08:00 ] 127.0.0.1 /index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+NOTIC: [8] Undefined offset: 0 H:\PHP\htdocs\index\ThinkPHP\Library\Think\Route.class.php 第 216 行.
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:17:37+08:00 ] 127.0.0.1 /index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+NOTIC: [8] Undefined offset: 0 H:\PHP\htdocs\index\ThinkPHP\Library\Think\Route.class.php 第 216 行.
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:17:37+08:00 ] 127.0.0.1 /index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8] Undefined offset: 0 H:\PHP\htdocs\index\ThinkPHP\Library\Think\Route.class.php 第 216 行.
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:22:21+08:00 ] 127.0.0.1 /index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000165s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002483s ]
+ERR: 无法加载模块:Category
+
+[ 2017-07-23T13:22:25+08:00 ] 127.0.0.1 /index/category
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:Category
+
+[ 2017-07-23T13:44:22+08:00 ] 127.0.0.1 /index/index.html/Admin/Category/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Index.html
+
+[ 2017-07-23T13:47:50+08:00 ] 127.0.0.1 /index/life.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001693s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:47:51+08:00 ] 127.0.0.1 /index/life.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:47:51+08:00 ] 127.0.0.1 /index/life.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:48:40+08:00 ] 127.0.0.1 /index/life.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:48:41+08:00 ] 127.0.0.1 /index/life.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:48:41+08:00 ] 127.0.0.1 /index/life.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:48:41+08:00 ] 127.0.0.1 /index/life.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:48:41+08:00 ] 127.0.0.1 /index/life.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:48:41+08:00 ] 127.0.0.1 /index/life.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:48:41+08:00 ] 127.0.0.1 /index/life.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T13:48:42+08:00 ] 127.0.0.1 /index/life.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001237s ]
+ERR: 无法加载模块:Life
+
+[ 2017-07-23T14:39:56+08:00 ] 127.0.0.1 /index/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:2
+
+[ 2017-07-23T15:19:02+08:00 ] 127.0.0.1 /index/213
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 无法加载模块:213
+NOTIC: [2] include(./404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening './404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:19:06+08:00 ] 127.0.0.1 /index/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:12
+NOTIC: [2] include(./404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening './404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:19:10+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:123123
+NOTIC: [2] include(./404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening './404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:19:19+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:123123
+
+[ 2017-07-23T15:21:07+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+ERR: 无法加载模块:123123
+NOTIC: [2] include(__PUBLIC__/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '__PUBLIC__/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:21:08+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+ERR: 无法加载模块:123123
+NOTIC: [2] include(__PUBLIC__/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '__PUBLIC__/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:21:08+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+ERR: 无法加载模块:123123
+NOTIC: [2] include(__PUBLIC__/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '__PUBLIC__/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:21:08+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+ERR: 无法加载模块:123123
+NOTIC: [2] include(__PUBLIC__/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '__PUBLIC__/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:21:08+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+ERR: 无法加载模块:123123
+NOTIC: [2] include(__PUBLIC__/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '__PUBLIC__/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:21:08+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+ERR: 无法加载模块:123123
+NOTIC: [2] include(__PUBLIC__/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '__PUBLIC__/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:21:36+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+ERR: 无法加载模块:123123
+NOTIC: [2] include(www.wycweb.com): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening 'www.wycweb.com' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:21:36+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:123123
+NOTIC: [2] include(www.wycweb.com): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening 'www.wycweb.com' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:21:36+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+ERR: 无法加载模块:123123
+NOTIC: [2] include(www.wycweb.com): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening 'www.wycweb.com' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:21:37+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:123123
+NOTIC: [2] include(www.wycweb.com): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening 'www.wycweb.com' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:21:37+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:123123
+NOTIC: [2] include(www.wycweb.com): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening 'www.wycweb.com' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:21:37+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+ERR: 无法加载模块:123123
+NOTIC: [2] include(www.wycweb.com): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening 'www.wycweb.com' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:21:37+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+ERR: 无法加载模块:123123
+NOTIC: [2] include(www.wycweb.com): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening 'www.wycweb.com' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T15:22:40+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 无法加载模块:123123
+
+[ 2017-07-23T15:22:41+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:123123
+
+[ 2017-07-23T15:23:34+08:00 ] 127.0.0.1 /index/213
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: 无法加载模块:213
+
+[ 2017-07-23T16:32:29+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:123123
+
+[ 2017-07-23T16:32:29+08:00 ] 127.0.0.1 /index/images/blueprint.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-23T16:32:29+08:00 ] 127.0.0.1 /index/images/error-pin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-23T16:32:29+08:00 ] 127.0.0.1 /index/images/error-hanger.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-23T16:33:32+08:00 ] 127.0.0.1 /index/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+ERR: 无法加载模块:123123
+
+[ 2017-07-23T16:33:32+08:00 ] 127.0.0.1 /index/images/blueprint.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-23T16:33:32+08:00 ] 127.0.0.1 /index/images/error-hanger.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002223s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-23T16:33:32+08:00 ] 127.0.0.1 /index/images/error-pin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-23T16:33:35+08:00 ] 127.0.0.1 /index/123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 无法加载模块:123
+
+[ 2017-07-23T16:33:35+08:00 ] 127.0.0.1 /index/images/error-hanger.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-23T16:33:35+08:00 ] 127.0.0.1 /index/images/error-pin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-23T16:33:35+08:00 ] 127.0.0.1 /index/images/blueprint.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+ERR: 无法加载模块:Images
+
+[ 2017-07-23T16:35:21+08:00 ] 127.0.0.1 /index/123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 无法加载模块:123
+
+[ 2017-07-23T16:35:21+08:00 ] 127.0.0.1 /index/error-pin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+ERR: 无法加载模块:Error-pin
+
+[ 2017-07-23T16:35:21+08:00 ] 127.0.0.1 /index/error-hanger.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载模块:Error-hanger
+
+[ 2017-07-23T16:35:21+08:00 ] 127.0.0.1 /index/blueprint.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007703s ]
+ERR: 无法加载模块:Blueprint
+
+[ 2017-07-23T16:37:36+08:00 ] 127.0.0.1 /index/132231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:132231
+NOTIC: [2] include(public/error/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening 'public/error/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T16:38:19+08:00 ] 127.0.0.1 /index/132231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001897s ]
+ERR: 无法加载模块:132231
+NOTIC: [2] include(/index/public/error/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '/index/public/error/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T16:38:19+08:00 ] 127.0.0.1 /index/132231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 无法加载模块:132231
+NOTIC: [2] include(/index/public/error/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '/index/public/error/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T16:38:21+08:00 ] 127.0.0.1 /index/132231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:132231
+NOTIC: [2] include(/index/public/error/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '/index/public/error/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T16:38:21+08:00 ] 127.0.0.1 /index/132231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+ERR: 无法加载模块:132231
+NOTIC: [2] include(/index/public/error/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '/index/public/error/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T16:38:22+08:00 ] 127.0.0.1 /index/132231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+ERR: 无法加载模块:132231
+NOTIC: [2] include(/index/public/error/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '/index/public/error/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T16:38:22+08:00 ] 127.0.0.1 /index/132231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:132231
+NOTIC: [2] include(/index/public/error/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '/index/public/error/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T16:38:22+08:00 ] 127.0.0.1 /index/132231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+ERR: 无法加载模块:132231
+NOTIC: [2] include(/index/public/error/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '/index/public/error/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T16:38:31+08:00 ] 127.0.0.1 /index/132231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001934s ]
+ERR: 无法加载模块:132231
+NOTIC: [2] include(/index/public/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '/index/public/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T16:38:32+08:00 ] 127.0.0.1 /index/132231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:132231
+NOTIC: [2] include(/index/public/404.html): failed to open stream: No such file or directory H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+NOTIC: [2] include(): Failed opening '/index/public/404.html' for inclusion (include_path='H:\PHP\php\PEAR') H:\PHP\htdocs\index\ThinkPHP\Library\Think\Think.class.php 第 314 行.
+
+[ 2017-07-23T16:38:40+08:00 ] 127.0.0.1 /index/132231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:132231
+
+[ 2017-07-23T16:38:41+08:00 ] 127.0.0.1 /index/132231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:132231
+
+[ 2017-07-23T16:38:42+08:00 ] 127.0.0.1 /index/132231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:132231
+
+[ 2017-07-23T16:39:46+08:00 ] 127.0.0.1 /index/312
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:312
+
+[ 2017-07-23T16:40:42+08:00 ] 127.0.0.1 /index/312
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 无法加载模块:312
+
+[ 2017-07-23T16:40:42+08:00 ] 127.0.0.1 /index/__PUBLIC__/error/css/error.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-07-23T16:40:47+08:00 ] 127.0.0.1 /index/123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+ERR: 无法加载模块:123
+
+[ 2017-07-23T16:40:47+08:00 ] 127.0.0.1 /index/__PUBLIC__/error/css/error.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001072s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2017-07-23T16:41:07+08:00 ] 127.0.0.1 /index/123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:123
+
+[ 2017-07-23T16:41:11+08:00 ] 127.0.0.1 /index/132
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+ERR: 无法加载模块:132
+
+[ 2017-07-23T16:44:18+08:00 ] 127.0.0.1 /index/213
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+ERR: 无法加载模块:213
+

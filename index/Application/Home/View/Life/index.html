@@ -1,0 +1,133 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>慢生活-王艺超的PHP个人博客</title>
+    <meta name="keywords" content="个人博客,王艺超个人博客,PHP个人博客,王艺超"/>
+    <meta name="description" content="王艺超的个人博客，一位热衷于LAMP开发的大学生。享受生活的每一个细节，享受生活中的每一次感动，享受生活中的每一天。">
+    <link href="__PUBLIC__/css/base.css" rel="stylesheet">
+    <link href="__PUBLIC__/css/style.css" rel="stylesheet">
+    <link href="__PUBLIC__/css/media.css" rel="stylesheet">
+    <link rel="shortcut icon" type="image/x-icon" href="__PUBLIC__/images/ico.ico" media="screen"/>
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    <!--[if lt IE 9]>
+    <script src="__PUBLIC__/js/modernizr.js"></script>
+    <![endif]-->
+    <script src="__PUBLIC__/js/jquery-1.4.2.min.js"></script>
+    <script>
+        (function () {
+            var bp = document.createElement('script');
+            var curProtocol = window.location.protocol.split(':')[0];
+            if (curProtocol === 'https') {
+                bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+            }
+            else {
+                bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+            }
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(bp, s);
+        })();
+    </script>
+</head>
+<body>
+<div class="ibody">
+    <header>
+        <h1>{$information.title}</h1>
+        <h2>{$information.describe}</h2>
+        <div class="logo" style="background: url(__ROOT__/Uploads/{$information.home_img}) no-repeat #000 center;">
+            <a href="__ROOT__/index.html"></a>
+        </div>
+        <nav id="topnav">
+            <a href="__ROOT__/index.html">首页</a>
+            <a href="__ROOT__/about.html">关于我</a>
+            <a href="__ROOT__/life.html" id="topnav_current">慢生活</a>
+            <a href="__ROOT__/photo.html">相册</a>
+            <a href="__ROOT__/board.html">留言板</a>
+        </nav>
+    </header>
+    <article>
+        <h2 class="about_h">您现在的位置是：<a href="__ROOT__/index.html">首页</a>><a href="__ROOT__/life.html">慢生活</a>><a href="__ROOT__/category/{$navName.cat_id}.html">{$navName.category}</a></h2>
+        <div class="bloglist">
+            <foreach name="life" item="v" key="k">
+                <div class="newblog">
+                    <ul>
+                        <h3><a href="__ROOT__/article/{$v.id}.html">{$v.title}</a></h3>
+                        <div class="autor"><span>作者：{$v.author}</span><span>分类：[<a
+                                href="__ROOT__/category/{$v.category_id}.html">{$v.category}</a>]</span><span>浏览（<a
+                                href="__ROOT__/article/{$v.id}.html">{$v.views}</a>）</span><span>评论（<a href="__ROOT__/category/{$v.category_id}.html">-</a>）</span></div>
+                        <p>{$v.describe}<a href="__ROOT__/article/{$v.id}.html" class="readmore">全文</a></p>
+                    </ul>
+                    <figure><img src="__ROOT__/Uploads/{$v.thumbnail}"></figure>
+                    <div class="dateview"><?php echo date('Y-m-d',$v['date']); ?></div>
+                </div>
+            </foreach>
+        </div>
+        {$page}
+    </article>
+    <aside>
+        <div class="rnav">
+            <foreach name="category" item="v" key="k">
+                <li class="rnav{$v.cat_id}"><a href="__ROOT__/category/{$v.cat_id}.html">{$v.category}</a></li>
+            </foreach>
+        </div>
+        <div class="ph_news">
+            <h2>
+                <p>点击排行</p>
+            </h2>
+            <ul class="ph_n">
+                <foreach name="clickArticle" item="v" key="k">
+                    <if condition="$k lt 3">
+                        <li><span class="num{$k+1}">{$k+1}</span><a
+                                href="__ROOT__/article/{$v.id}.html">{$v.title}</a></li>
+                        <else/>
+                        <li><span>{$k+1}</span><a href="__ROOT__/article/{$v.id}.html">{$v.title}</a>
+                        </li>
+                    </if>
+                </foreach>
+            </ul>
+            <h2>
+                <p>推荐文章</p>
+            </h2>
+            <ul>
+                <foreach name="commendArticle" item="v" key="k">
+                    <li><a href="__ROOT__/article/{$v.id}.html">{$v.title}</a></li>
+                </foreach>
+            </ul>
+            <h2>
+                <p>最新评论</p>
+            </h2>
+            <ul class="pl_n">
+                <!-- UYAN NEW COMMENT BEGIN -->
+                <div id="uyan_newcmt_unit"></div>
+                <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2129883"></script>
+                <!-- 如果已经过加载此行JS，即可不用重复加载 -->
+                <!-- UYAN NEW COMMENT END -->
+            </ul>
+            <!--<h2>-->
+            <!--<p>最近访客</p>-->
+            <!--<ul>-->
+            <!--<img src="__PUBLIC__/images/vis.jpg">&lt;!&ndash; 直接使用“多说”插件的调用代码 &ndash;&gt;-->
+            <!--</ul>-->
+            <!--</h2>-->
+        </div>
+
+        <div class="copyright">
+            <ul>
+                <p> Design by <a href="http://www.wycweb.com">王艺超</a></p>
+                <p><a href="http://www.miitbeian.gov.cn" target="_blank">{$information.icp}</a></p>
+                </p>
+            </ul>
+        </div>
+    </aside>
+    <script src="__PUBLIC__/js/silder.js"></script>
+    <div class="clear"></div>
+    <!-- 清除浮动 -->
+</div>
+<script>
+    (function () {
+        var src = (document.location.protocol == "http:") ? "http://js.passport.qihucdn.com/11.0.1.js?7cbfb91faeba97246808925bb0a986e1" : "https://jspassport.ssl.qhimg.com/11.0.1.js?7cbfb91faeba97246808925bb0a986e1";
+        document.write('<script src="' + src + '" id="sozz"><\/script>');
+    })();
+</script>
+</body>
+</html>

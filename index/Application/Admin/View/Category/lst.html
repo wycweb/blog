@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>后台管理</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/Back/css/common.css"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/Back/css/main.css"/>
+    <script type="text/javascript" src="__PUBLIC__/Back/js/libs/modernizr.min.js"></script>
+</head>
+<body>
+<include file="Public/head" />
+<div class="container clearfix">
+    <include file="Public/left" />
+    <!--/sidebar-->
+    <div class="main-wrap">
+
+        <div class="crumb-wrap">
+            <div class="crumb-list"><i class="icon-font"></i><a href="__ROOT__">首页</a><span class="crumb-step">&gt;</span><span class="crumb-name">分类管理</span></div>
+        </div>
+        <div class="result-wrap">
+            <form name="myform" id="myform" action="__CONTROLLER__/sort" method="post">
+                <div class="result-title">
+                    <div class="result-list">
+                        <a href="__CONTROLLER__/add"><i class="icon-font"></i>新增分类</a>
+                        <a id="updateOrd" href="javascript:void(0)"><i class="icon-font"></i>
+                        <input class="btn btn-pimary btn2" type="submit" value="更新排序" /></a>
+
+                    </div>
+                </div>
+                <div class="result-content">
+                    <table class="result-tab" width="100%">
+                        <tr>
+                            <th>排序</th>
+                            <th>ID</th>
+                            <th>分类名称</th>
+                            <th>操作</th>
+                        </tr>
+                        <volist name="category" id="v">
+                        <tr>
+                            <td width="4%">
+                                <input class="common-input sort-input" name="{$v.cat_id}" value="{$v.sort}" type="text">
+                            </td>
+                            <td width="4%">{$v.id}</td>
+                            <td title="{$v.category}"><a href="#" title="分类名称">{$v.category}</a>
+                            </td>
+                            <td width="10%">
+                                <a class="link-update" href="__CONTROLLER__/edit/cat_id/{$v.cat_id}">修改</a>
+                                <a class="link-del" onclick="return confirm('你要删除该分类吗？');" href="__CONTROLLER__/del/cat_id/{$v.cat_id}">删除</a>
+                            </td>
+                        </tr>
+                        </volist> 
+                    </table>
+                    <!-- <div class="list-page"> 2 条 1/1 页</div> -->
+                </div>
+            </form>
+        </div>
+    </div>
+    <!--/main-->
+</div>
+</body>
+</html>

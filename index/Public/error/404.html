@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<!-- Viewport metatags -->
+<meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+<link rel="stylesheet" type="text/css" href="Public/error/css/error.css"  media="screen" />
+
+<title>王艺超的个人网站-404错误页面</title>
+
+</head>
+
+<body>
+    
+	<!-- Main Wrapper. Set this to 'fixed' for fixed layout and 'fluid' for fluid layout' -->
+	<div id="da-wrapper" class="fluid">
+    
+        <!-- Content -->
+        <div id="da-content">
+            
+            <!-- Container -->
+            <div class="da-container clearfix">
+            
+            	<div id="da-error-wrapper">
+                	
+                   	<div id="da-error-pin"></div>
+                    <div id="da-error-code">
+                    	error <span>404</span>                    </div>
+                
+                	<h1 class="da-error-heading" style="font-size: 18px">哎哟喂！页面让狗狗叼走了！</h1>
+                    <p style="font-size: 18px">您可以访问网站的首页： <a href="http://www.wycweb.com/" style="font-size: 18px">王艺超的PHP个人博客</a></p>
+                    <p><a style="font-size: 18px" href="http://www.wycweb.com/"><span id="tS">15 秒后</span>自动跳转到首页</a></p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Footer -->
+        <div id="da-footer">
+        	<div class="da-container clearfix">
+                <p> <a href="http://www.wycweb.com/">王艺超的个人网站</a> | 备案号：<a href="http://www.miitbeian.gov.cn">辽ICP备16014977号</a></div>
+        </div>
+    </div>
+    
+</body>
+</html>
+<script type="text/javascript">
+    function gid(id) { return document.getElementById ? document.getElementById(id) : null; }
+    function timeDesc() {
+        if (all <= 0) {
+            self.location = "http://www.wycweb.com/";
+        }
+        var obj = gid("tS");
+        if (obj) obj.innerHTML = all + " 秒后";
+        all--;
+    }
+    var all = 14;
+    if (all > 0) window.setInterval("timeDesc();", 1000);
+</script>
